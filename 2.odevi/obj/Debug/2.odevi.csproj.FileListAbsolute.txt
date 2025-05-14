@@ -1,0 +1,11 @@
+C:\Users\Dell\OneDrive\Desktop\2.odevi\2.odevi\obj\Debug\2.odevi.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\2.odevi\2.odevi\obj\Debug\_2.odevi.Form1.resources
+C:\Users\Dell\OneDrive\Desktop\2.odevi\2.odevi\obj\Debug\_2.odevi.models.Form2.resources
+C:\Users\Dell\OneDrive\Desktop\2.odevi\2.odevi\obj\Debug\_2.odevi.Properties.Resources.resources
+C:\Users\Dell\OneDrive\Desktop\2.odevi\2.odevi\obj\Debug\2.odevi.csproj.GenerateResource.cache
+C:\Users\Dell\OneDrive\Desktop\2.odevi\2.odevi\obj\Debug\2.odevi.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\2.odevi\2.odevi\bin\Debug\2.odevi.exe.config
+C:\Users\Dell\OneDrive\Desktop\2.odevi\2.odevi\bin\Debug\2.odevi.exe
+C:\Users\Dell\OneDrive\Desktop\2.odevi\2.odevi\bin\Debug\2.odevi.pdb
+C:\Users\Dell\OneDrive\Desktop\2.odevi\2.odevi\obj\Debug\2.odevi.exe
+C:\Users\Dell\OneDrive\Desktop\2.odevi\2.odevi\obj\Debug\2.odevi.pdb
